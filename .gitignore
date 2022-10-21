@@ -1,0 +1,6 @@
+.idea
+.pypirc
+build
+dist
+qbit_py_sdk.egg-info
+qbit_py_sdk/__pycache__/
