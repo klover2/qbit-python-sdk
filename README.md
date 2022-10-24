@@ -20,7 +20,7 @@
 
 最新版本已经在 [pypi](https://pypi.org/project/qbit-py-sdk/) 发布。
 
-`pip install qbit-py-sdk`
+`pip install qbit-py-sdk` 或者 `pipenv install qbit-py-sdk`
 
 ### 使用
 

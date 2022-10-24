@@ -11,7 +11,7 @@ requires = [
 
 setuptools.setup(
     name="qbit_py_sdk",
-    version="0.1.3",
+    version="1.0.0",
     keywords=["qbit", "全球账户", "量子卡"],
     author="qbit team",
     author_email="w.klover@foxmail.com",
